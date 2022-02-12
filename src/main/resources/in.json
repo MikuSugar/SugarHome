@@ -1,0 +1,168 @@
+{
+  "sites": [
+    {
+      "id": "日常",
+      "siteList": [
+        {
+          "address": "https://www.acfun.cn",
+          "name": "A站",
+          "description": "AcFun是一家弹幕视频网站，致力于为每一个人带来欢乐",
+          "img": "https://cdn.aixifan.com/ico/favicon.ico"
+        },
+        {
+          "address": "https://www.bilibili.com/",
+          "name": "B站",
+          "description": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+          "img": "https://s1.ax1x.com/2020/07/10/UK1E7V.jpg"
+        },
+        {
+          "address": "https://search.chongbuluo.com/",
+          "name": "虫部落快搜",
+          "description": "聚合搜索引擎",
+          "img": "https://search.chongbuluo.com/favicon.ico"
+        },
+        {
+          "address": "https://www.google.com/",
+          "name": "Google搜索",
+          "description": "Google search",
+          "img": "../assets/images/logos/google.png"
+        },
+        {
+          "address": "https://www.baidu.com/",
+          "name": "百度搜索",
+          "description": "百度一下，你就知道",
+          "img": "https://www.baidu.com/favicon.ico"
+        },
+        {
+          "address": "https://translate.google.cn",
+          "name": "Google翻译",
+          "description": "Google translate",
+          "img": "https://translate.google.cn/favicon.ico"
+        },
+        {
+          "address": "https://www.zhihu.com/",
+          "name": "知乎",
+          "description": "问答社区",
+          "img": "https://static.zhihu.com/static/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "开发",
+      "siteList": [
+        {
+          "address": "https://github.com",
+          "name": "GitHub",
+          "description": "一个面向开源及私有软件项目的托管平台",
+          "img": "https://github.com/favicon.ico"
+        },
+        {
+          "address": "https://gitee.com/",
+          "name": "Gitee",
+          "description": "一个面向开源及私有软件项目的国内托管平台",
+          "img": "https://gitee.com/static/images/logo_themecolor.png"
+        },
+        {
+          "address": "https://leetcode-cn.com/problemset/all/",
+          "name": "LeetCode",
+          "description": "刷题网站",
+          "img": "https://static.leetcode-cn.com/cn-legacy-assets/images/LeetCode_Sharing.png"
+        },
+        {
+          "address": "https://stackoverflow.com/",
+          "name": "stackoverflow",
+          "description": "一个编程问答网站",
+          "img": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico"
+        },
+        {
+          "address": "https://paste.ubuntu.com",
+          "name": "Ubuntu Pastebin",
+          "description": "文本分享",
+          "img": "https://paste.ubuntu.com/static/ubuntu_logo.png"
+        },
+        {
+          "address": "https://mvnrepository.com/",
+          "name": "mvnrepository",
+          "description": "mvn仓库",
+          "img": "https://mvnrepository.com/assets/images/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "工具",
+      "siteList": [
+        {
+          "address": "https://volmoe.com",
+          "name": "Volmoe",
+          "description": "kindle漫画,mobi漫画,漫画下载,漫画推送,Kobo漫画,epub漫画",
+          "img": "https://volmoe.com/favicon.ico"
+        },
+        {
+          "address": "https://cn.office-converter.com/",
+          "name": "office-converter",
+          "description": "免费在线文件转换器",
+          "img": "https://www.office-converter.com/Office-Converter/OfficeConverterIco.png"
+        },
+        {
+          "address": "https://tools.miku.ac/",
+          "name": "MikuTools",
+          "description": "在线工具集合",
+          "img": "https://tools.miku.ac/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "工作",
+      "siteList": [
+        {
+          "address": "https://jira.hypers.com/secure/Dashboard.jspa",
+          "name": "jira",
+          "description": "工时统计",
+          "img": "https://jira.hypers.com/s/ysmdo1/809000/b6b48b2829824b869586ac216d119363/_/images/fav-jsw.png"
+        },
+        {
+          "address": "https://gitlab.hypers.com/",
+          "name": "GitLab",
+          "description": "公司公网Git",
+          "img": "http://gitlab.hypers.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "address": "http://gitweb.hypers.com/",
+          "name": "Gerrit2",
+          "description": "公司内网老Git",
+          "img": "https://www.gerritcodereview.com/images/favicon.ico"
+        },
+        {
+          "address": "http://gerrit3.hypers.com/",
+          "name": "Gerrit3",
+          "description": "公司内网新Git",
+          "img": "https://www.gerritcodereview.com/images/favicon.ico"
+        },
+        {
+          "address": "https://bastion.hypers.cc/auth/login/?next=/assets/user-asset/",
+          "name": "Jumpserver",
+          "description": "公司跳板机",
+          "img": "https://bastion.hypers.cc/static/img/facio.ico"
+        },
+        {
+          "address": "https://hypers.ecosaas.com/",
+          "name": "员工系统",
+          "description": "HYPERS HR系统",
+          "img": "https://hypers.ecosaas.com/login/favicon.ico"
+        },
+        {
+          "address": "https://exmail.qq.com/login",
+          "name": "企业邮箱",
+          "description": "腾讯企业邮箱",
+          "img": "https://exmail.qq.com/exmail_logo.ico"
+        },
+        {
+          "address": "http://hedgedoc.hypers.com/",
+          "name": "hedgedoc",
+          "description": "共享文档",
+          "img": "https://hedgedoc.org/images/banner/hedgedoc_banner_color_horizontal.svg"
+        }
+      ]
+    }
+  ]
+}

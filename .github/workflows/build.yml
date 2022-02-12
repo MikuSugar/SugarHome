@@ -1,0 +1,35 @@
+name: build
+on:
+  release:
+    types: [ created ]
+    push:
+      branches:
+        - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-java@v2
+        with:
+          java-version: '8'
+          distribution: 'adopt'
+      - name: run
+        run: |
+          mvn package
+          java -jar target/webhome-1.0-SNAPSHOT.jar json=src/main/resources/in.json out=../index.html
+          mkdir -p ~/.ssh/
+          echo "$SSH_KEY" | tr -d '\r' > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          # set git infomation
+          git config --global user.name 'mikusugar'
+          git config --global user.email 'syfangjie@live.cn'
+          # push
+          git checkout -b web
+          rm -rf web
+          mkdir web
+          cp ../index.html web/index.html
+          git add web/*
+          git commit -m "update: web"
+          git push -f origin web
