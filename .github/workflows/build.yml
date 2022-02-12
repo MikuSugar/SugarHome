@@ -26,8 +26,8 @@ jobs:
           # push
           git checkout -b web
           cp -r ../docs docs
-          cp ../index.html dosc/cn/index.html
-          cp ../index.html dosc/en/index.html
+          cp ../index.html docs/cn/index.html
+          cp ../index.html docs/en/index.html
           git add docs/*
           git commit -m "update: web"
           git push -f origin web
