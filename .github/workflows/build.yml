@@ -13,6 +13,7 @@ jobs:
           distribution: 'adopt'
       - name: run
         run: |
+          cp -r docs ../docs
           mvn org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5:assembly
           java -jar target/webhome-1.0-SNAPSHOT-jar-with-dependencies.jar json=src/main/resources/in.json out=../index.html
           mkdir -p ~/.ssh/
@@ -24,7 +25,9 @@ jobs:
           git config --global user.email 'syfangjie@live.cn'
           # push
           git checkout -b web
-          cp ../index.html index.html
-          git add index.html
+          cp -r ../docs docs
+          cp ../index.html dosc/cn/index.html
+          cp ../index.html dosc/en/index.html
+          git add docs/*
           git commit -m "update: web"
           git push -f origin web
