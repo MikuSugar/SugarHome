@@ -13,8 +13,8 @@ jobs:
           distribution: 'adopt'
       - name: run
         run: |
-          mvn package
-          java -jar target/webhome-1.0-SNAPSHOT.jar json=src/main/resources/in.json out=../index.html
+          mvn org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5:assembly
+          java -jar target/webhome-1.0-SNAPSHOT-jar-with-dependencies.jar json=src/main/resources/in.json out=../index.html
           mkdir -p ~/.ssh/
           echo "$SSH_KEY" | tr -d '\r' > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
