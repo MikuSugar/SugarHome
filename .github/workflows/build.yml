@@ -24,9 +24,9 @@ jobs:
           git config --global user.email 'syfangjie@live.cn'
           # push
           git checkout -b web
-          rm -rf web
+          rm index.html
           mkdir web
-          cp ../index.html web/index.html
-          git add web/*
+          cp ../index.html index.html
+          git add index.html
           git commit -m "update: web"
           git push -f origin web
