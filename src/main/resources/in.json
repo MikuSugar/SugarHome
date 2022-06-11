@@ -110,59 +110,6 @@
           "img": "https://tools.miku.ac/favicon.ico"
         }
       ]
-    },
-    {
-      "id": "工作",
-      "siteList": [
-        {
-          "address": "https://jira.hypers.com/secure/Dashboard.jspa",
-          "name": "jira",
-          "description": "工时统计",
-          "img": "https://jira.hypers.com/s/ysmdo1/809000/b6b48b2829824b869586ac216d119363/_/images/fav-jsw.png"
-        },
-        {
-          "address": "https://gitlab.hypers.com/",
-          "name": "GitLab",
-          "description": "公司公网Git",
-          "img": "http://gitlab.hypers.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "address": "http://gitweb.hypers.com/",
-          "name": "Gerrit2",
-          "description": "公司内网老Git",
-          "img": "https://www.gerritcodereview.com/images/favicon.ico"
-        },
-        {
-          "address": "http://gerrit3.hypers.com/",
-          "name": "Gerrit3",
-          "description": "公司内网新Git",
-          "img": "https://www.gerritcodereview.com/images/favicon.ico"
-        },
-        {
-          "address": "https://bastion.hypers.cc/auth/login/?next=/assets/user-asset/",
-          "name": "Jumpserver",
-          "description": "公司跳板机",
-          "img": "https://bastion.hypers.cc/static/img/facio.ico"
-        },
-        {
-          "address": "https://hypers.ecosaas.com/",
-          "name": "员工系统",
-          "description": "HYPERS HR系统",
-          "img": "https://hypers.ecosaas.com/login/favicon.ico"
-        },
-        {
-          "address": "https://exmail.qq.com/login",
-          "name": "企业邮箱",
-          "description": "腾讯企业邮箱",
-          "img": "https://exmail.qq.com/exmail_logo.ico"
-        },
-        {
-          "address": "http://hedgedoc.hypers.com/",
-          "name": "hedgedoc",
-          "description": "共享文档",
-          "img": "https://hedgedoc.org/images/banner/hedgedoc_banner_color_horizontal.svg"
-        }
-      ]
     }
   ]
 }
