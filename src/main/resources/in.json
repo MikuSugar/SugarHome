@@ -110,6 +110,35 @@
           "img": "https://tools.miku.ac/favicon.ico"
         }
       ]
+    },
+    {
+      "id": "源源的工具",
+      "siteList": [
+        {
+          "address": "https://dfefegrgr.github.io/weather/",
+          "name": "天气",
+          "description": "☁️查看",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/06/天气.png"
+        },
+        {
+          "address": "http://101.34.30.52:6789",
+          "name": "todo",
+          "description": "todo",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/06/todo_list.svg"
+        },
+        {
+          "address": "http://101.34.30.52:4321/note",
+          "name": "源源的blog",
+          "description": "blog",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/06/blog.svg"
+        },
+        {
+          "address": "http://101.34.30.52:6868",
+          "name": "股票查询",
+          "description": "查询股票",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/06/股票.svg"
+        }
+      ]
     }
   ]
 }
