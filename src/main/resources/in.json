@@ -110,6 +110,29 @@
           "img": "https://tools.miku.ac/favicon.ico"
         }
       ]
+    },
+    {
+      "id": "公司",
+      "siteList": [
+        {
+          "address": "http://192.168.100.7/wui/index.html",
+          "name": "OA",
+          "description": "OA办公平台",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/10/A95uPM.jpg"
+        },
+        {
+          "address": "http://192.168.103.24/users/sign_in",
+          "name": "gitlab",
+          "description": "gitlab 代码仓库",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/10/eCKU1X.png"
+        },
+        {
+          "address": "https://exmail.qq.com/login",
+          "name": "邮箱",
+          "description": "工作邮箱",
+          "img": "https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/images/bizmail/new_login/exmail_logo_1473e91.png"
+        }
+      ]
     }
   ]
 }
