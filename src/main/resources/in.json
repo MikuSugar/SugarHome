@@ -34,12 +34,6 @@
           "img": "https://www.baidu.com/favicon.ico"
         },
         {
-          "address": "https://translate.google.cn",
-          "name": "Google翻译",
-          "description": "Google translate",
-          "img": "https://translate.google.cn/favicon.ico"
-        },
-        {
           "address": "https://www.zhihu.com/",
           "name": "知乎",
           "description": "问答社区",
@@ -55,12 +49,6 @@
           "name": "GitHub",
           "description": "一个面向开源及私有软件项目的托管平台",
           "img": "https://github.com/favicon.ico"
-        },
-        {
-          "address": "https://gitee.com/",
-          "name": "Gitee",
-          "description": "一个面向开源及私有软件项目的国内托管平台",
-          "img": "https://gitee.com/static/images/logo_themecolor.png"
         },
         {
           "address": "https://leetcode-cn.com/problemset/all/",
