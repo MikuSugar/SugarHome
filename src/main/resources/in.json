@@ -100,6 +100,29 @@
       ]
     },
     {
+      "id": "不错的博客",
+      "siteList": [
+        {
+          "address": "http://wiki.eryajf.net/",
+          "name": "二丫讲梵",
+          "description": "坐而言不如起而行",
+          "img": "http://wiki.eryajf.net/img/logo.png"
+        },
+        {
+          "address": "http://learn.lianglianglee.com/",
+          "name": "note-submit",
+          "description": "技术文章摘抄",
+          "img": "http://learn.lianglianglee.com/static/favicon.png"
+        },
+        {
+          "address": "https://hongjiang.info/scala/",
+          "name": "夜行船",
+          "description": "scala讲的非常好",
+          "img": "https://secure.gravatar.com/avatar/f39079933a2953451a5f7df96fc4b5e8?s=78&d=retro&r=g"
+        }
+      ]
+    },
+    {
       "id": "公司",
       "siteList": [
         {
