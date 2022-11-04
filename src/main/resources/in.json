@@ -102,6 +102,12 @@
           "name": "MikuTools",
           "description": "在线工具集合",
           "img": "https://tools.miku.ac/favicon.ico"
+        },
+        {
+          "address": "https://tool.yovisun.com/scihub/",
+          "name": "SCI_Hub",
+          "description": "SCI-Hub论文下载可用网址链接",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/11/WDBYbc.jpg"
         }
       ]
     },
