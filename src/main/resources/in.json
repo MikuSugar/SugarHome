@@ -108,6 +108,12 @@
           "name": "SCI_Hub",
           "description": "SCI-Hub论文下载可用网址链接",
           "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/11/WDBYbc.jpg"
+        },
+        {
+          "address": "https://www.scidown.cn/",
+          "name": "scidown",
+          "description": "scidown论文下载",
+          "img": "https://www.scidown.cn/xz/picture/logo.png"
         }
       ]
     },
