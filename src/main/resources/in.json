@@ -120,6 +120,12 @@
           "name": "scidown",
           "description": "scidown论文下载",
           "img": "https://www.scidown.cn/xz/picture/logo.png"
+        },
+        {
+          "address": "https://chat.openai.com/",
+          "name": "ChatGPT",
+          "description": "ChatGPT人工智能",
+          "img": "https://openai.com/content/images/size/w256h256/2020/09/icon-1.png"
         }
       ]
     },
