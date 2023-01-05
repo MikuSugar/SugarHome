@@ -133,12 +133,6 @@
       "id": "不错的博客",
       "siteList": [
         {
-          "address": "http://wiki.eryajf.net/",
-          "name": "二丫讲梵",
-          "description": "坐而言不如起而行",
-          "img": "http://wiki.eryajf.net/img/logo.png"
-        },
-        {
           "address": "http://learn.lianglianglee.com/",
           "name": "note-submit",
           "description": "技术文章摘抄",
@@ -184,6 +178,12 @@
           "name": "Confluence",
           "description": "知识库",
           "img": "https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg?cdnVersion=573"
+        },
+        {
+          "address": "https://223.251.3.239/ui/#/login",
+          "name": "Vmware ESXI",
+          "description": "虚拟机",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2023/01/dLFtuM.jpg"
         }
       ]
     }
