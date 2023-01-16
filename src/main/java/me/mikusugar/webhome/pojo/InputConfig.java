@@ -1,6 +1,5 @@
 package me.mikusugar.webhome.pojo;
 
-import java.util.Arrays;
 import java.util.HashMap;
 
 /**
