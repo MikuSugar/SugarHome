@@ -85,6 +85,12 @@
           "name": "正则转解释图片",
           "description": "方便理解正则",
           "img": "https://regexper.com/favicon.ico"
+        },
+        {
+          "address": "https://regexper.com/",
+          "name": "App Icon Generator",
+          "description": "App 图标生成",
+          "img": "https://www.appicon.co/logo.png"
         }
       ]
     },
