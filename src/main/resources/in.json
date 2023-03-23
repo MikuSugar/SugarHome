@@ -137,7 +137,7 @@
           "address": "https://chat.openai.com/",
           "name": "ChatGPT",
           "description": "ChatGPT人工智能",
-          "img": "https://openai.com/content/images/size/w256h256/2020/09/icon-1.png"
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png"
         },
         {
           "address": "https://search.zhelper.net/?%5B%7B%22name%22:%22zhelperV5%22,%22url%22:%22https://api.v5.zhelper.net%22,%22type%22:%22full%22,%22sensitive%22:true,%22detail%22:true%7D,%7B%22name%22:%22Mibooks(V4)%22,%22url%22:%22https://api.mibooks.tk%22,%22type%22:%22full%22,%22sensitive%22:true,%22detail%22:false%7D,%7B%22name%22:%22Ylibrary%22,%22url%22:%22https://api.ylibrary.org%22,%22type%22:%22full%22,%22sensitive%22:true,%22detail%22:true%7D%5D",
