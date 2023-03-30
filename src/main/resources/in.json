@@ -186,13 +186,13 @@
           "img": "https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/images/bizmail/new_login/exmail_logo_1473e91.png"
         },
         {
-          "address": "http://192.168.103.22:8095/secure/Dashboard.jspa",
+          "address": "http://223.251.3.128:8080/",
           "name": "Jira",
           "description": "项目管理",
           "img": "https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=573"
         },
         {
-          "address": "http://192.168.103.22:8090/login.action?os_destination=%2Findex.action&permissionViolation=true",
+          "address": "http://223.251.3.187:8090/dologin.action",
           "name": "Confluence",
           "description": "知识库",
           "img": "https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg?cdnVersion=573"
