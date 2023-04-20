@@ -44,6 +44,13 @@
           "name": "知乎",
           "description": "问答社区",
           "img": "https://static.zhihu.com/static/favicon.ico"
+        },
+        {
+          "address": "https://www.ysjdm.net/",
+          "name": "异世界动漫",
+          "description": "动漫",
+          "img": "https://www.ysjdm.net/template/conch/asset/img/ios_fav.png"
+
         }
       ]
     },
