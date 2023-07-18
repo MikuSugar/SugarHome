@@ -165,8 +165,8 @@
         },
         {
           "address": "http://192.168.50.3/",
-          "name": "盘路由",
-          "description": "openwrt盘路由",
+          "name": "旁路由",
+          "description": "openwrt旁路由",
           "img": "https://openwrt.org/_media/logo.png"
         },
         {
