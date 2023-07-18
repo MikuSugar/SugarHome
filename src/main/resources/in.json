@@ -174,6 +174,24 @@
           "name": "CasaOS",
           "description": "小主机docker看板",
           "img": "https://casaos.io/images/casa_9c491a0f.svg"
+        },
+        {
+          "address": "http://192.168.50.3:9090/ui/dashboard/#/proxies?host=192.168.50.3&port=9090&secret=123456",
+          "name": "Clash",
+          "description": "Clash DashBoard",
+          "img": "https://raw.githubusercontent.com/Dreamacro/clash/master/docs/logo.png"
+        },
+        {
+          "address": "http://192.168.50.35:5244/",
+          "name": "AList",
+          "description": "存储聚合",
+          "img": "https://alist.nn.ci/logo.svg"
+        },
+        {
+          "address": "http://192.168.50.35:8123/",
+          "name": "HomeAssistant",
+          "description": "智能家居",
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2023/07/QFAEiz.png"
         }
       ]
     },
