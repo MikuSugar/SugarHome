@@ -50,7 +50,6 @@
           "name": "异世界动漫",
           "description": "动漫",
           "img": "https://www.ysjdm.net/template/conch/asset/img/ios_fav.png"
-
         }
       ]
     },
@@ -151,6 +150,29 @@
           "name": "zlib",
           "description": "电子书下载",
           "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2023/01/EIyYYS.jpg"
+        }
+      ]
+    },
+    {
+      "id": "家庭内网",
+      "siteList": [
+        {
+          "address": "http://192.168.50.1/",
+          "name": "主路由",
+          "description": "ROG主路由",
+          "img": "https://www.asus.com/media/img/2017/images/n-logo-asus.svg"
+        },
+        {
+          "address": "http://192.168.50.3/",
+          "name": "盘路由",
+          "description": "openwrt盘路由",
+          "img": "https://openwrt.org/_media/logo.png"
+        },
+        {
+          "address": "http://192.168.50.35/",
+          "name": "CasaOS",
+          "description": "小主机docker看板",
+          "img": "https://casaos.io/images/casa_9c491a0f.svg"
         }
       ]
     },
