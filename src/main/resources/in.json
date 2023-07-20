@@ -203,17 +203,11 @@
           "name": "note-submit",
           "description": "技术文章摘抄",
           "img": "http://learn.lianglianglee.com/static/favicon.png"
-        },
-        {
-          "address": "https://hongjiang.info/scala/",
-          "name": "夜行船",
-          "description": "scala讲的非常好",
-          "img": "https://secure.gravatar.com/avatar/f39079933a2953451a5f7df96fc4b5e8?s=78&d=retro&r=g"
         }
       ]
     },
     {
-      "id": "公司",
+      "id": "打工",
       "siteList": [
         {
           "address": "http://223.251.3.249",
