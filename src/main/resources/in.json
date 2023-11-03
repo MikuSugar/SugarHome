@@ -184,7 +184,7 @@
           "address": "http://192.168.50.3:9090/ui/dashboard/#/proxies?host=192.168.50.3&port=9090&secret=123456",
           "name": "Clash",
           "description": "Clash DashBoard",
-          "img": "https://raw.githubusercontent.com/Dreamacro/clash/master/docs/logo.png"
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2023/11/a1vHjz.png"
         },
         {
           "address": "http://192.168.50.35:5244/",
