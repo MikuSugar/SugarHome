@@ -150,6 +150,12 @@
           "name": "专利搜索",
           "description": "专利检索系统",
           "img": "https://cprs.patentstar.com.cn/img/logo_navi2.png"
+        },
+        {
+          "address": "https://pubscholar.cn/",
+          "name": "PubScholar公益学术平台",
+          "description": "公益学术平台",
+          "img": "https://pubscholar.cn/static/app-logo-text-large-light.png"
         }
       ]
     },
