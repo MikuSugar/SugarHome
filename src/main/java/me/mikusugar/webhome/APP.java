@@ -16,15 +16,12 @@ import java.nio.charset.StandardCharsets;
 /**
  * @author mikusugar
  */
+@SuppressWarnings("IOStreamConstructor")
 public class APP {
     public static void main(String[] args) throws IOException {
-
         final InputConfig inputConfig = InputConfig.parseArgs(args);
-
         System.out.println("读取的配置文件为:" + inputConfig);
-
         String jsonStr = Files.read(new File(inputConfig.getJson()), StandardCharsets.UTF_8);
-
         ClassLoaderTemplateResolver resolver = new ClassLoaderTemplateResolver();
         //模板所在目录，相对于当前classloader的classpath。
         resolver.setPrefix("");
@@ -49,7 +46,5 @@ public class APP {
         engine.process("example", context, writer);
         writer.close();
         engine.clearTemplateCache();
-
-
     }
 }
