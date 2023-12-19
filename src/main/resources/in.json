@@ -156,6 +156,12 @@
           "name": "PubScholar公益学术平台",
           "description": "公益学术平台",
           "img": "https://pubscholar.cn/static/app-logo-text-large-light.png"
+        },
+        {
+          "address": "https://snap.stanford.edu/data/",
+          "name": "斯坦福图数据集集合",
+          "description": "图数据集下载",
+          "img": "https://snap.stanford.edu/images/snap_logo.png"
         }
       ]
     },
