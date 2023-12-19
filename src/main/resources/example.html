@@ -109,15 +109,10 @@
         <!-- 网址 -->
 
         <br/>
-        <!-- Main Footer -->
         <footer class="main-footer sticky footer-type-1">
             <div class="footer-inner">
-                <!-- Add your copyright text here -->
-                <div class="footer-text">
-                    &copy; 2023 <a href="https://mikusugar.me/">追赶风车</a>
-                    <!-- <a href="../cn/about.html"><strong>WebStack</strong></a> design by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a> -->
+                <div class="footer-text" id="footer-text">
                 </div>
-                <!-- Go to Top Link, just add rel="go-top" to any link to add this functionality -->
                 <div class="go-up">
                     <a href="#" rel="go-top">
                         <i class="fa-angle-up"></i>
@@ -125,6 +120,14 @@
                 </div>
             </div>
         </footer>
+        <script>
+            // 获取当前的年份
+            var year = new Date().getFullYear();
+            // 获取footer-text的元素
+            var footerText = document.getElementById("footer-text");
+            // 修改footer-text的内容
+            footerText.innerHTML = "&copy; " + year + " <a href='https://mikusugar.me/'>追赶风车</a>";
+        </script>
     </div>
 </div>
 <!-- 锚点平滑移动 -->
