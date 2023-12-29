@@ -110,6 +110,12 @@
           "img": "https://github.com/Kaiyiwing/qwerty-learner/raw/master/src/assets/logo.svg"
         },
         {
+          "address": "https://www.phraseum.com/learning/index",
+          "name": "phraseum",
+          "description": "英语句子学习",
+          "img": "https://www.phraseum.com/images/favicon-192x192.png"
+        },
+        {
           "address": "https://volmoe.com",
           "name": "Volmoe",
           "description": "kindle漫画,mobi漫画,漫画下载,漫画推送,Kobo漫画,epub漫画",
