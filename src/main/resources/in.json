@@ -214,6 +214,18 @@
           "name": "note-submit",
           "description": "技术文章摘抄",
           "img": "http://learn.lianglianglee.com/static/favicon.png"
+        },
+        {
+          "address": "https://tw93.fun/",
+          "name": "Tw93",
+          "description": "Be yourself and don't go with the flow.Be yourself and don't go with the flow.",
+          "img": "https://gw.alipayobjects.com/zos/k/h9/1.png"
+        },
+        {
+          "address": "https://www.ruanyifeng.com/blog/",
+          "name": "阮一峰的网络日志",
+          "description": "周五摸鱼看看",
+          "img": "https://www.ruanyifeng.com/blog/images/person2_s.jpg"
         }
       ]
     },
