@@ -22,6 +22,32 @@
         .github-edit-button:hover {
             background-color: #2980b9;
         }
+        .google-search-box {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .google-search-box input[type="text"] {
+            padding: 10px;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            margin-right: 5px;
+        }
+
+        .google-search-box button {
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .google-search-box button:hover {
+            background-color: #2980b9;
+        }
     </style>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
     </script>
@@ -56,6 +82,12 @@
 </head>
 
 <body class="page-body">
+<div class="google-search-box">
+    <form action="https://www.google.com/search" method="GET" target="_blank">
+        <input type="text" name="q" placeholder="在Google中搜索...">
+        <button type="submit">搜索</button>
+    </form>
+</div>
 <!-- skin-white -->
 <div class="page-container">
     <div class="sidebar-menu toggle-others fixed">
