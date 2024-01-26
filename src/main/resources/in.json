@@ -232,6 +232,12 @@
           "name": "阮一峰的网络日志",
           "description": "周五摸鱼看看",
           "img": "https://www.ruanyifeng.com/blog/images/person2_s.jpg"
+        },
+        {
+          "address": "https://subingwen.cn/",
+          "name": "大丙课堂",
+          "description": "有很多教程",
+          "img": "https://subingwen.cn/images/logo.png"
         }
       ]
     },
