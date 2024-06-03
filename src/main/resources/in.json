@@ -238,6 +238,12 @@
           "name": "大丙课堂",
           "description": "有很多教程",
           "img": "https://subingwen.cn/images/logo.png"
+        },
+        {
+          "address": "https://conge.livingwithfcs.org/",
+          "name": "Conge",
+          "description": "向死而生",
+          "img": "https://conge.livingwithfcs.org/favicon.ico?"
         }
       ]
     },
