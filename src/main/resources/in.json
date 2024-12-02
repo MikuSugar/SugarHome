@@ -272,7 +272,7 @@
           "address": "http://10.13.4.249:8090/",
           "name": "Confluence",
           "description": "知识库",
-          "img": "https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg?cdnVersion=573"
+          "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed/uPic/2024/12/EahNI7.png"
         },
         {
           "address": "https://223.251.3.239/ui/#/login",
