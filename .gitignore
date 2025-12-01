@@ -42,4 +42,5 @@ error-screenshots/
 webpack.generated.js
 
 *.db
+docs/cn/index.html
 
