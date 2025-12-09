@@ -245,7 +245,7 @@
           "img": "https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/images/bizmail/new_login/exmail_logo_1473e91.png"
         },
         {
-          "address": "http://10.13.4.249:8088/",
+          "address": "http://10.13.4.249:8080/",
           "name": "Jira",
           "description": "项目管理",
           "img": "https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=573"
