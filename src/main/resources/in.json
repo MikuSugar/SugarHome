@@ -233,7 +233,7 @@
       "id": "打工",
       "siteList": [
         {
-          "address": "http://10.13.4.249",
+          "address": "http://10.86.11.249/",
           "name": "gitlab",
           "description": "gitlab 代码仓库",
           "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2022/10/eCKU1X.png"
@@ -245,13 +245,13 @@
           "img": "https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/images/bizmail/new_login/exmail_logo_1473e91.png"
         },
         {
-          "address": "http://10.13.4.249:8080/",
+          "address": "http://10.86.11.249:8080/",
           "name": "Jira",
           "description": "项目管理",
           "img": "https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=573"
         },
         {
-          "address": "http://10.13.4.249:8090/",
+          "address": "http://10.86.11.249:8090/",
           "name": "Confluence",
           "description": "知识库",
           "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed/uPic/2024/12/EahNI7.png"
