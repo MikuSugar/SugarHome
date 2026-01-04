@@ -97,6 +97,12 @@
           "name": "App Icon Generator",
           "description": "App 图标生成",
           "img": "https://www.appicon.co/logo.png"
+        },
+        {
+          "address": "https://tuxmate.com/",
+          "name": "tuxmate",
+          "description": "linux app install",
+          "img": "https://tuxmate.com/tuxmate.png"
         }
       ]
     },
