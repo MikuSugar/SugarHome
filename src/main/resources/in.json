@@ -263,8 +263,8 @@
           "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed/uPic/2024/12/EahNI7.png"
         },
         {
-          "address": "https://223.251.3.239/ui/#/login",
-          "name": "Vmware ESXI",
+          "address": "https://10.87.11.10/login",
+          "name": "云管平台",
           "description": "虚拟机",
           "img": "https://cdn.jsdelivr.net/gh/mikusugar/PictureBed@master/uPic/2023/01/fbsg18.jpg"
         },
