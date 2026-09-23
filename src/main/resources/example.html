@@ -298,7 +298,8 @@
                    class="link-card search-item"
                    th:data-search="(${addr.name} + ' ' + ${addr.description})">
 
-                    <img th:src="${addr.img}"
+                    <img src="../assets/images/favicon.png"
+                         th:data-src="${addr.img}"
                          alt="icon"
                          class="card-icon"
                          loading="lazy"
@@ -325,6 +326,15 @@
 </a>
 
 <script>
+    // 在页面完成加载后再请求第三方图标，避免慢响应阻塞浏览器的 load 事件。
+    window.addEventListener('load', () => {
+        setTimeout(() => {
+            document.querySelectorAll('.card-icon[data-src]').forEach(icon => {
+                icon.src = icon.dataset.src;
+            });
+        }, 0);
+    });
+
     // 1. 设置页脚年份
     document.getElementById('footer-text').innerHTML = `&copy; ${new Date().getFullYear()} <a href='https://mikusugar.me/' target='_blank'>追赶风车</a> powered by <a href='https://github.com/WebStackPage/WebStackPage.github.io' target='_blank'>WebStack</a>`;
 
