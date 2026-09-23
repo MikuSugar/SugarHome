@@ -19,7 +19,7 @@
           "address": "https://search.chongbuluo.com/",
           "name": "虫部落快搜",
           "description": "聚合搜索引擎",
-          "img": "https://search.chongbuluo.com/favicon.ico"
+          "img": "../assets/images/site-icons/chongbuluo.ico"
         },
         {
           "address": "https://www.google.com/",
@@ -96,7 +96,7 @@
           "address": "https://www.appicon.co/",
           "name": "App Icon Generator",
           "description": "App 图标生成",
-          "img": "https://www.appicon.co/logo.png"
+          "img": "../assets/images/site-icons/appicon.ico"
         },
         {
           "address": "https://tuxmate.com/",
@@ -143,7 +143,7 @@
           "address": "https://chat.openai.com/",
           "name": "ChatGPT",
           "description": "ChatGPT人工智能",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png"
+          "img": "../assets/images/site-icons/chatgpt.svg"
         },
         {
           "address": "https://cprs.patentstar.com.cn/Search/Index",
@@ -155,7 +155,7 @@
           "address": "https://pubscholar.cn/",
           "name": "PubScholar公益学术平台",
           "description": "公益学术平台",
-          "img": "https://pubscholar.cn/static/app-logo-text-large-light.png"
+          "img": "../assets/images/site-icons/pubscholar.ico"
         },
         {
           "address": "https://snap.stanford.edu/data/",

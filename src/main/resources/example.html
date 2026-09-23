@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     <title>导航</title>
-    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/mikusugar/PictureBed/uPic/2025/12/铃音.jpg">
+    <link rel="shortcut icon" href="../assets/images/favicon.png">
 
     <style>
         /* ============================================== */
@@ -270,7 +270,7 @@
 <body>
 <aside class="sidebar">
     <div class="logo-area">
-        <img src="https://cdn.jsdelivr.net/gh/mikusugar/PictureBed/uPic/2025/12/铃音.jpg" alt="Logo" style="vertical-align: middle;">
+        <img src="../assets/images/logos/logo-collapsed@2x.png" alt="Logo" style="vertical-align: middle;">
         MikuSugar
     </div>
 
@@ -298,7 +298,13 @@
                    class="link-card search-item"
                    th:data-search="(${addr.name} + ' ' + ${addr.description})">
 
-                    <img th:src="${addr.img}" alt="icon" class="card-icon" onerror="this.src='https://via.placeholder.com/48x48/30314a/a0a0b0?text=I'">
+                    <img th:src="${addr.img}"
+                         alt="icon"
+                         class="card-icon"
+                         loading="lazy"
+                         decoding="async"
+                         referrerpolicy="no-referrer"
+                         onerror="this.onerror=null;this.src='../assets/images/favicon.png'">
 
                     <div class="card-info">
                         <div class="card-title" th:text="${addr.name}">网站名称</div>
